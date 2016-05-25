@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.column1 {
+  width: 24%;
+  float: left;
+  padding-right: 1%;
+}
+
+.column2 {
+  width: 24%;
+  float: left;
+  padding-right: 1%;
+}
+
+.column3 {
+  width: 24%;
+  float: left;
+  padding-right: 1%;
+}
+
+.column4 {
+  width: 24%;
+  float: left;
+}
+
+img {
+  width: 95%;
+  padding: 5px;
+  border: 1px solid black;
+}
+
+.key-intro {
+  font-weight: bold;
+  color: #0099cc;
+
+}
